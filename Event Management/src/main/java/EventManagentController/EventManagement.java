@@ -326,6 +326,4 @@ public class EventManagement {
 
 		
 		
-//admin credentials are wrong to get all the services
-//event does not exist with given event id
-//client login failed
+
